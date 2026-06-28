@@ -5,3 +5,4 @@ __pycache__/
 *.pyc
 generated_ad*.png
 .DS_Store
+BUILD_PLAN.md
