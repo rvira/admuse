@@ -1,0 +1,7 @@
+langchain
+langchain-ollama
+huggingface_hub
+chromadb
+streamlit
+python-dotenv
+pillow
